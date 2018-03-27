@@ -1,0 +1,48 @@
+
+h1 {
+  color: #	000000;
+  font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 18px;
+  font-weight: 300;
+  text-transform: uppercase;
+  text-align: center;
+}
+.daramolabody {
+	color: #00FF7F;
+	background: url("images/Daramolasbackground.jpg");
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 14px;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+	
+}
+
+.noelbody {
+	color: #00FF7F;
+	background: url("images/Daramolasbackground.jpg");
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 14px;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+}
+.indexbody {
+	text-align:center;
+	color: #00FF7F;
+	background: url("images/Daramolasbackground.jpg");
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 14px;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+p{
+	font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+	
